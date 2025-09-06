@@ -11,4 +11,6 @@ docker compose up -d
 ```
 
 Connect to the Open-webui server running in a browser
-`localhost:3001` 
+```
+localhost:3001
+``` 
