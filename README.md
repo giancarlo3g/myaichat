@@ -5,7 +5,7 @@ This repo includes a docker compose file to run Open-webui connected to Ollama w
 To run
 
 ```
-git clone https://github.com/giancarlo3g/myaichat`
+git clone https://github.com/giancarlo3g/myaichat
 cd myaichat
 docker compose up -d
 ```
